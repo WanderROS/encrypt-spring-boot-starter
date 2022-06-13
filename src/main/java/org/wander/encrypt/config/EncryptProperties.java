@@ -1,4 +1,4 @@
-package com.github.wanderros.encryptspringbootstarter.config;
+package org.wander.encrypt.config;
 
 import org.springframework.boot.context.properties.ConfigurationProperties;
 

@@ -1,4 +1,4 @@
-package com.github.wanderros.encryptspringbootstarter;
+package org.wander.encrypt;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

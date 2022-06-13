@@ -1,4 +1,4 @@
-package com.github.wanderros.encryptspringbootstarter;
+package org.wander.encrypt;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

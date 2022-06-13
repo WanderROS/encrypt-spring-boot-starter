@@ -1,4 +1,4 @@
-package com.github.wanderros.encryptspringbootstarter.utils;
+package org.wander.encrypt.utils;
 
 import javax.crypto.Cipher;
 import javax.crypto.spec.SecretKeySpec;

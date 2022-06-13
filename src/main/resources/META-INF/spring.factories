@@ -1,1 +1,1 @@
-org.springframework.boot.autoconfigure.EnableAutoConfiguration=com.github.wanderros.encryptspringbootstarter.config.EncryptAutoConfiguration
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=org.wander.encrypt.config.EncryptAutoConfiguration

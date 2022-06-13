@@ -1,4 +1,4 @@
-package com.github.wanderros.encryptspringbootstarter.annotations;
+package org.wander.encrypt.annotations;
 
 import java.lang.annotation.ElementType;
 import java.lang.annotation.Retention;
