@@ -1,4 +1,4 @@
-package org.wander.encrypt.entity;
+package com.github.wanderros.encrypt.starter.entity;
 
 public class RespBean {
     private Integer status;

@@ -1,7 +1,7 @@
-package org.wander.encrypt.config;
+package com.github.wanderros.encrypt.starter.config;
 
-import org.wander.encrypt.annotations.Decrypt;
-import org.wander.encrypt.utils.AESUtils;
+import com.github.wanderros.encrypt.starter.annotations.Decrypt;
+import com.github.wanderros.encrypt.starter.utils.AESUtils;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.context.properties.EnableConfigurationProperties;
 import org.springframework.core.MethodParameter;

@@ -1,9 +1,9 @@
-package org.wander.encrypt.config;
+package com.github.wanderros.encrypt.starter.config;
 
 import org.springframework.context.annotation.ComponentScan;
 import org.springframework.context.annotation.Configuration;
 
 @Configuration
-@ComponentScan("org.wander.encrypt")
+@ComponentScan("com.github.wanderros.encrypt.starter")
 public class EncryptAutoConfiguration {
 }

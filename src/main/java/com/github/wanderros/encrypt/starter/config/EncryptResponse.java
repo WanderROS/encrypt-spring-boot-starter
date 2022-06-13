@@ -1,9 +1,9 @@
-package org.wander.encrypt.config;
+package com.github.wanderros.encrypt.starter.config;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
-import org.wander.encrypt.annotations.Encrypt;
-import org.wander.encrypt.entity.RespBean;
-import org.wander.encrypt.utils.AESUtils;
+import com.github.wanderros.encrypt.starter.entity.RespBean;
+import com.github.wanderros.encrypt.starter.utils.AESUtils;
+import com.github.wanderros.encrypt.starter.annotations.Encrypt;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.context.properties.EnableConfigurationProperties;
 import org.springframework.core.MethodParameter;

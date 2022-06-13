@@ -1,4 +1,4 @@
-package org.wander.encrypt.utils;
+package com.github.wanderros.encrypt.starter.utils;
 
 import javax.crypto.Cipher;
 import javax.crypto.spec.SecretKeySpec;
